@@ -1,0 +1,4 @@
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\bin\Release\GoogleChartWrapper.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\bin\Release\GoogleChartWrapper.pdb
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\obj\Release\GoogleChartWrapper.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\obj\Release\GoogleChartWrapper.pdb

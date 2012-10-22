@@ -1,0 +1,9 @@
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\GoogleChartWrapper.Tests.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\GoogleChartWrapper.Tests.pdb
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\GoogleChartWrapper.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\nunit.framework.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\GoogleChartWrapper.pdb
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\bin\Release\nunit.framework.xml
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\obj\Release\GoogleChartWrapper.Tests.csprojResolveAssemblyReference.cache
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\obj\Release\GoogleChartWrapper.Tests.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper.Tests\obj\Release\GoogleChartWrapper.Tests.pdb

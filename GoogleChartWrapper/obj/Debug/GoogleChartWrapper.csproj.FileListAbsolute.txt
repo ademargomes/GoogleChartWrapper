@@ -1,0 +1,5 @@
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\bin\Debug\GoogleChartWrapper.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\bin\Debug\GoogleChartWrapper.pdb
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\obj\Debug\GoogleChartWrapper.dll
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\obj\Debug\GoogleChartWrapper.pdb
+C:\TEMP\CODE\GoogleChartWrapper\GoogleChartWrapper\obj\Debug\GoogleChartWrapper.csprojResolveAssemblyReference.cache
